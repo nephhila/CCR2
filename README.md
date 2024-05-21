@@ -75,3 +75,4 @@ O método analítico é muito útil para reações de segunda ordem e não reque
 
 🔗 ACESSO AO PROJETO 🔗
 
+https://github.com/nephhila/CCR2
