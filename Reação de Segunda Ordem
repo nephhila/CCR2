@@ -38,3 +38,4 @@ plt.title('Simulação de Reação Enzimática de Michaelis-Menten')
 plt.legend()
 plt.grid(True)
 plt.show()
+
